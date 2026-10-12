@@ -1,4 +1,4 @@
 # Deploy notes
 
-Deploy window: to be decided
+Deploy window: 09:00 UTC
 Rollback plan: keep the previous tag ready
